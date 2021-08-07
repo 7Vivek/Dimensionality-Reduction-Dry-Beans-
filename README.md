@@ -11,7 +11,8 @@
 
 - File: (DryBeanDataset.zip – Use Dry_Bean_Dataset.xlsx)
 
-- You are expected to provide solution that answers the below mentioned questions:
+You are expected to provide solution that answers the below mentioned questions:
+
 a) Plot the first two dimensions PCA.
 
 b) Use the first n PCA which 95% variance covered as inputs to apply classification algorithms, present, TP Rate, FP Rate, Precision, Recall, F-Measure, Confusion matrix and Classification rate.
